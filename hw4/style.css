@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+.page {
+    background-color:rgb(216, 216, 114);
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.container {
+    max-width: 1200px;
+    height: 1200px;
+    margin: 0 auto;
+}
+.card-wrapper {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 50px;
+}    
+
+.card {
+    max-width: 280px;
+    display: inline-block;
+    padding:30px;
+    border: 25px solid cornflowerblue;
+    background-color: white;
+    text-align: center;
+}
+.button{
+    background-color:cornflowerblue;
+    width: 4cm;
+    height: 1cm;
+    border: 3px solid cornflowerblue;
+    margin-top: px;
+}
+.title-text {
+    color:black;
+    font-size: 20px;
+    font-weight: 800;
+    margin: 10px;
+}
+.card-text {
+    color:black;
+    font-size: 12px;
+    font-weight: 800px;
+    margin: 15px;
+}
+.img {
+    width: 3cm;
+    height: 4cm;
+    margin: auto;  
+}
