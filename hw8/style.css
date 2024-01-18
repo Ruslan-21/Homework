@@ -1,0 +1,30 @@
+.navigation {
+    margin-bottom: 100px;
+}
+.item {
+  display: flex;
+  gap: 30px; 
+}
+.wrapper {
+    height: 300px;
+    background:blue;
+}
+
+.inner {
+    height: 300px;
+    background: green;
+}
+.main {
+    height: 300px;
+    background: greenyellow;
+}
+.section {
+    height: 300px;
+    background: yellow;
+}
+.footer {
+    height: 300px;
+    background:aqua;
+}
+
+#wrapper #footer #section #main #inner
