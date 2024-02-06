@@ -1,0 +1,35 @@
+
+.page {
+    background: #2B2B2B;
+
+}
+
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.header__logo {
+    display: flex;
+    gap: 329px;
+    padding: 34px;
+}
+
+.header__nav-list {
+    display: flex;
+    gap: 10px;
+   
+}
+
+.gfd {
+    display: flex;
+    
+}
+
+.btn-use {
+    display: flex;
+    gap: 10px;
+}
+
+
